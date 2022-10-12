@@ -19,7 +19,6 @@ import matplotlib.pyplot as plt
 import torch
 from shapely.geometry import Polygon
 from operator import itemgetter
-from torchvision.ops import box_iou
 
 # add project directory to python path to enable relative imports
 import os
